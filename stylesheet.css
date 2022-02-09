@@ -1,0 +1,25 @@
+#person{
+    
+    
+    /*****************************************
+    border: 1px solid black;
+    width: 50%;
+    padding: 15px;
+    margin: 50px;
+    ******************************************/
+
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 15px;
+   
+   
+}
+
+#header{
+    margin: auto;
+    width: 40%;
+    
+    padding: 10px;
+
+}
